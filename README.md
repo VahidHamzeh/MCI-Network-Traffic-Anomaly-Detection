@@ -8,6 +8,15 @@ Telecommunication networks generate massive amounts of data. This project levera
 - **Anomaly Detection:** Implementing unsupervised learning to detect network disruptions.
 - **Predictive Maintenance:** Identifying segments of the network susceptible to failure.
 
+## 📊 Visualization Highlights
+In this project, we analyzed network traffic patterns and successfully identified anomalies using machine learning. Below are the visual results of our traffic decomposition and anomaly detection:
+
+| Raw Traffic & Anomaly Detection | Seasonal & Trend Analysis |
+| :---: | :---: |
+| ![Traffic Analysis](assets/image_ef467d.png) | ![Seasonal Decomposition](assets/HamrahAvva2.jpeg) |
+
+*The left chart displays the raw traffic throughput with red markers indicating detected anomalies, while the right chart visualizes the decomposition of traffic into trend and seasonal components.*
+
 ## 🛠️ Key Features
 - **Data Preprocessing:** Cleaning and structuring massive telecom datasets.
 - **Time-Series Decomposition:** Using **STL Decomposition** (Seasonal, Trend, and Residue) to isolate traffic components.
