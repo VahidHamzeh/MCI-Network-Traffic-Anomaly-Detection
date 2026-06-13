@@ -13,7 +13,7 @@ In this project, we analyzed network traffic patterns and successfully identifie
 
 | Raw Traffic & Anomaly Detection | Seasonal & Trend Analysis |
 | :---: | :---: |
-| ![Traffic Analysis](assets/HamrahAvva2.jpeg) | ![Seasonal Decomposition](assets/HamrahAvval.png) |
+| ![Traffic Analysis](assets/HamrahAvva2.jpeg) | ![Seasonal Decomposition](assets/HamraheAvval.png) |
 
 *The left chart displays the raw traffic throughput with red markers indicating detected anomalies, while the right chart visualizes the decomposition of traffic into trend and seasonal components.*
 
