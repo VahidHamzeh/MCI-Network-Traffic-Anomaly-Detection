@@ -27,6 +27,7 @@ In this project, we analyzed network traffic patterns and successfully identifie
 - **Time-Series Decomposition:** Using **STL Decomposition** (Seasonal, Trend, and Residue) to isolate traffic components.
 - **Anomaly Detection:** Implementing the **Isolation Forest** algorithm to detect network traffic anomalies.
 - **Visualization:** Developing a grid-based visualization dashboard using `Matplotlib` and `GridSpec` to display real-time/historical metrics.
+- **Methodology:** Applied STL decomposition to extract seasonal patterns from massive telecommunication traffic data, enabling the Isolation Forest model to isolate stochastic anomalies with high precision, reducing false-positive alerts in network monitoring.
 
 ## 📁 Repository Structure
 - `/Data`: Contains the dataset (confidential).
