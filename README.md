@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Algorithm-Isolation_Forest-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Analysis](https://img.shields.io/badge/Method-Time_Series_Analysis-green?style=for-the-badge&logo=statsmodels&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge&logo=github&logoColor=white)
+
 # MCI Network Traffic Analysis & Anomaly Detection
 
 This project was developed for the **MCI Academy** to explore the application of Artificial Intelligence and Big Data in telecommunication network management. The project focuses on identifying traffic patterns and predicting network anomalies/outages.
